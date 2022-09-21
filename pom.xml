@@ -32,5 +32,6 @@
     <module>spring-form-tags-example</module>
     <module>spring-custom-form-validation-example</module>
     <module>spring-form-handling-example</module>
+    <module>spring-jstl-form-handling-example</module>
   </modules>
 </project>
