@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.rsaad</groupId>
+  <artifactId>SpringMVCFramework</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>spring-xml-setter-dependency-injection-example</module>
+  	<module>
+  		spring-xml-constructor-dependency-injection-example
+  	</module>
+  	<module>spring-xml-annotation-bean-scope-example</module>
+  	<module>spring-property-placeholder-example</module>
+  	<module>spring-load-multiple-configuration-files</module>
+  	<module>spring-hello-world-example</module>
+  	<module>spring-init-destroy-method-example</module>
+  	<module>spring-bean-inheritance-configuration-example</module>
+  	<module>
+  		spring-annotation-postconstruct-predestroy-example
+  	</module>
+  	<module>spring-auto-component-scanning-example</module>
+  	<module>spring-autowiring-qualifier-example</module>
+    <module>struts2-srping-integration-example</module>
+    <module>spring-struts-integration-example</module>
+    <module>spring-mvc-helloworld-example</module>
+    <module>spring-mvc-hello-world-example</module>
+    <module>spring-hibernate-crud-example</module>
+    <module>spring-form-handling</module>
+    <module>spring-hibernate-mysql-crud-example</module>
+    <module>spring-springdatajpa-mysql-example</module>
+    <module>spring-form-tags-example</module>
+    <module>spring-custom-form-validation-example</module>
+    <module>spring-form-handling-example</module>
+  </modules>
+</project>
