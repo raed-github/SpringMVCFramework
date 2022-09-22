@@ -33,5 +33,9 @@
     <module>spring-custom-form-validation-example</module>
     <module>spring-form-handling-example</module>
     <module>spring-jstl-form-handling-example</module>
+    <module>spring-fileupload-example</module>
+    <module>spring-interceptor-example</module>
+    <module>spring-struts-xml-integration-example</module>
+    <module>spring-struts-javabased-annotation-example</module>
   </modules>
 </project>
