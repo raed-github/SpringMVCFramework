@@ -37,5 +37,10 @@
     <module>spring-interceptor-example</module>
     <module>spring-struts-xml-integration-example</module>
     <module>spring-struts-javabased-annotation-example</module>
+    <module>spring-csv-download-example</module>
+    <module>spring-pdf-view-example</module>
+    <module>spring-xslt-example</module>
+    <module>spring-jdbc-template-example</module>
+    <module>spring-excel-file-example</module>
   </modules>
 </project>

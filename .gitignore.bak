@@ -7,5 +7,3 @@
 */.project
 venv/
 input/*.xlsx
-spring-xslt-example/
-spring-fileupload-example/
